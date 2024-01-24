@@ -1,0 +1,15 @@
+{
+  "name": "wagmi-generate-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "wagmi generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wagmi/cli": "^2.0.4"
+  }
+}
